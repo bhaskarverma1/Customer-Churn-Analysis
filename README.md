@@ -38,4 +38,4 @@ Conclusion
 The insights gained from this analysis can help businesses develop better strategies to reduce churn rates and improve customer satisfaction.
 
 
-[Dtaset link](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+[Dataset link](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
