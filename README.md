@@ -7,7 +7,6 @@ This project focuses on analyzing customer churn using Python and various data s
 Project Overview
 
 In this project, 
-
 Installed and imported essential libraries such as pandas, numpy, matplotlib, and seaborn.
 
 Loaded the Customer Churn Dataset to analyze customer behavior.
